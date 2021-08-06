@@ -1,4 +1,4 @@
-
+alert("Hola from Linux");
 var wakeuptime = 7;
 var noon = 12;
 var lunchtime = 12;
